@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\bin\Debug\net8.0\Calendario_Matrices_2024.exe
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\bin\Debug\net8.0\Calendario_Matrices_2024.deps.json
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\bin\Debug\net8.0\Calendario_Matrices_2024.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\bin\Debug\net8.0\Calendario_Matrices_2024.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\bin\Debug\net8.0\Calendario_Matrices_2024.pdb
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\refint\Calendario_Matrices_2024.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.pdb
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\Calendario_Matrices_2024.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\Proyectos_C#\Calendario_Matrices_2024\Calendario_Matrices_2024\obj\Debug\net8.0\ref\Calendario_Matrices_2024.dll
